@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T12:51:41.041Z",
+  "generated_at": "2026-09-29T13:51:19.982Z",
   "coletado_de": "https://api.mapasus.com.br",
   "hospitais": [
     {
@@ -43706,8 +43706,8 @@
         "Bothropic",
         "Scorpionic"
       ],
-      "lat": null,
-      "lng": null,
+      "lat": -10.6133528,
+      "lng": -62.7333446,
       "extraction_source": "pdf_text",
       "ocr_confidence": null,
       "requires_verification": false,
@@ -46945,7 +46945,7 @@
       "city": "JOÃO PESSOA",
       "name": "HOSPITAL SAO VICENTE DE PAULO",
       "address": "AVENIDA JOAO MACHADO, 1234, CENTRO",
-      "phones": null,
+      "phones": "83 2107-9500",
       "cnes": "2399776",
       "treatments": [],
       "lat": -7.126492,
